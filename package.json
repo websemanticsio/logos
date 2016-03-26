@@ -1,0 +1,33 @@
+{
+  "name": "websemanticsio-logos",
+  "version": "1.0.0",
+  "homepage": "https://websemantics.io",
+  "description": "Logos and other graphics assets for Web Semantics.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license" : "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/websemanticsio/logos"
+  },
+  "keywords": [
+    "ibuild.io",
+    "websemantics.io",
+    "logos"
+  ],
+  "author": "Adnan M.Sagar, PhD. <adnan@websemantics.io>",
+  "bugs": {
+    "url": "https://github.com/websemanticsio/logos/issues"
+  },
+  "devDependencies": {
+      "gulp": "*",
+      "gulp-svg2png": "*",
+      "gulp-favicons": "*",
+      "gulp-svg-sprite": "*",
+      "gulp-nunjucks-render": "*",
+      "gulp-svgmin": "*",
+      "gulp-rename": "*",
+      "gulp-print": "*"
+  }
+}
