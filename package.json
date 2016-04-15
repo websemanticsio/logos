@@ -1,33 +1,26 @@
 {
-  "name": "websemanticsio-logos",
-  "version": "1.0.0",
+  "name": "websemanticsio-media",
+  "version": "0.1.0",
   "homepage": "https://websemantics.io",
-  "description": "Logos and other graphics assets for Web Semantics.",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "license" : "Apache-2.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/websemanticsio/logos"
-  },
+  "description": "Logos and other graphics assets for Web Semantics,Inc.",
+  "author": "Adnan M.Sagar, PhD. <adnan@websemantics.io>",
+  "license" : "UNLICENSED",
   "keywords": [
     "ibuild.io",
     "websemantics.io",
-    "logos"
+    "artwork",
+    "media",
+    "logo"
   ],
-  "author": "Adnan M.Sagar, PhD. <adnan@websemantics.io>",
+  "scripts": {
+    "postinstall": "gulp"
+  },
+  "repository": "websemanticsio/media",
   "bugs": {
-    "url": "https://github.com/websemanticsio/logos/issues"
+    "url": "https://github.com/websemanticsio/media/issues"
   },
   "devDependencies": {
-      "gulp": "*",
-      "gulp-svg2png": "*",
-      "gulp-favicons": "*",
-      "gulp-svg-sprite": "*",
-      "gulp-nunjucks-render": "*",
-      "gulp-svgmin": "*",
-      "gulp-rename": "*",
-      "gulp-print": "*"
+    "gulp": "*",
+    "gulp-svg-smart": "*"
   }
 }

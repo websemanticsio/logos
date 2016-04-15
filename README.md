@@ -1,27 +1,34 @@
-# Web Semantics Logos
+# Media [![Build Status](https://travis-ci.org/websemanticsio/media.svg?branch=master)](https://travis-ci.org/websemanticsio/media)
+> Web Semanitcs, Inc. logo and artwork
 
-This repository satisfies all logos needs of Web Semantics. It generates Web Semantics logo in SVG, PNG, ICO and SVG sprites formats from a single SVG template `src/template.svg`.
+[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-yellow-text-h-w400.png)](http://websemantics.io)
+
+[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-green-text-h-w400.png)](http://websemantics.io)
+
+[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-blue-text-h-w400.png)](http://websemantics.io)
+
+[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-red-text-h-w400.png)](http://websemantics.io)
+
+[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-solid-text-h-w400.png)](http://websemantics.io)
+
+
+[View all media](http://websemanticsio.github.io/media/)
+
 
 ## Install
 
-- Install Node.js dependencies
+- Clone and install node.js dependencies,
 
 ```
 npm install
 ```
 
-- Generate vector and bitmaps for Ibuild logo
 
-```
-gulp
-```
+## Related
 
-## Includes
+This project is using [SVG SMART](https://github.com/websemantics/svg-smart), a node.js module to generate web semantics logos and artwork in `svg`, `png`, `icon` and `svg sprite` formats using a data-driven template approach, `src/template.svg`.
 
-This scripts generates over over 162 image files as follows:
 
-- Folder `assets/svg` contains 26 SVG files. They come in three formats, vertical, horizontal and logo; and for each a number of colors are used with a combination of white and solid text colors.
+## Copyright
 
-- Folder `assets/png` contains 69 PNG files
-- Folder `assets/ico` contains 48 ICO files
-- Folder `assets/sprite` contains 2 collection of sprites
+Copyright 2011-2016 Web Semantics, Inc.
