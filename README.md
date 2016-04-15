@@ -1,5 +1,5 @@
 # Media [![Build Status](https://travis-ci.org/websemanticsio/media.svg?branch=master)](https://travis-ci.org/websemanticsio/media)
-> Web Semanitcs, Inc. logo and artwork
+> Web Semanitcs, Inc. logo and artwork.
 
 [![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-yellow-text-h-w400.png)](http://websemantics.io)
 
