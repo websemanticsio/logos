@@ -61,7 +61,7 @@
         },
         "retina": true
       },
-      "icon1": {
+      "icon": {
         "dest": "icon",
         "source": "{{ global.files.dest }}\/png\/logo-invert-yellow-h256@2x.png",
         "config": {
