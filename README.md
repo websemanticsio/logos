@@ -1,15 +1,15 @@
 # Media [![Build Status](https://travis-ci.org/websemanticsio/media.svg?branch=master)](https://travis-ci.org/websemanticsio/media)
 > Web Semanitcs, Inc. logo and artwork.
 
-[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-yellow-text-h-w400.png)](http://websemantics.io)
+[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-yellow-h-w400.png)](http://websemantics.io)
 
-[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-green-text-h-w400.png)](http://websemantics.io)
+[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-green-h-w400.png)](http://websemantics.io)
 
-[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-blue-text-h-w400.png)](http://websemantics.io)
+[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-blue-h-w400.png)](http://websemantics.io)
 
-[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-red-text-h-w400.png)](http://websemantics.io)
+[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-red-h-w400.png)](http://websemantics.io)
 
-[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-solid-text-h-w400.png)](http://websemantics.io)
+[![image](https://raw.githubusercontent.com/websemanticsio/media/gh-pages/assets/png/logo-solid-h-w400.png)](http://websemantics.io)
 
 
 [View all media](http://websemanticsio.github.io/media/)
