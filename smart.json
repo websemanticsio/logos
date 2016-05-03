@@ -2,6 +2,7 @@
   "global": {
     "color": {
       "white": "#ffffff",
+      "black": "#000000",
       "pickled": "#364e66",
       "yellow_1": "#f39c1f",
       "yellow_2": "#f1c40f",
@@ -40,6 +41,7 @@
       "data":[
         "logo-solid",
         "logo-white",
+        "logo-black",
         "logo-yellow",
         "logo-green",
         "logo-blue",
@@ -183,6 +185,18 @@
         "fill_1": "{{ global.color.white }}",
         "fill_2": "{{ global.color.white }}",
         "text_fill": "{{ global.color.white }}"
+      }
+    },
+    "logo-black": {
+      "children": [
+        "logo",
+        "text-h",
+        "text-v"
+      ],
+      "value": {
+        "fill_1": "{{ global.color.black }}",
+        "fill_2": "{{ global.color.black }}",
+        "text_fill": "{{ global.color.black }}"
       }
     },
     "logo-yellow": {
