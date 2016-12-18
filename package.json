@@ -1,8 +1,8 @@
 {
   "name": "websemanticsio-media",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://websemantics.io",
-  "description": "Logos and other graphics assets for Web Semantics,Inc.",
+  "description": "Media files for use in Web Semantics, Inc. integration projects.",
   "author": "Adnan M.Sagar, PhD. <adnan@websemantics.io>",
   "license" : "UNLICENSED",
   "keywords": [

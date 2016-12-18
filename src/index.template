@@ -48,7 +48,7 @@
         <div class="ui attached fluid segment">
           <div class="ui images rounded bordered">
              {% for item in svg %}
-             <a href="https://raw.githubusercontent.com/{{ html.github_url }}/gh-pages/{{ item.dest }}/{{ item.filename }}.{{ item.extension }}"><img data-content="{{ item.dest }}/{{ item.filename }}.{{ item.extension }}" data-variation="inverted" src="{{ item.dest }}/{{ item.filename }}.{{ item.extension }}"></a>{% endfor %}
+             <a href="https://raw.githubusercontent.com/{{ html.github_url }}/gh-pages/{{ item.dest }}/{{ item.filename }}.{{ item.extension }}"><img width="100" height="100" data-content="{{ item.dest }}/{{ item.filename }}.{{ item.extension }}" data-variation="inverted" src="{{ item.dest }}/{{ item.filename }}.{{ item.extension }}"></a>{% endfor %}
           </div>
         </div>
       </div>
